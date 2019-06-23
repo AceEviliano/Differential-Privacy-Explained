@@ -1,6 +1,6 @@
 # Facebook-Secure-and-Private-AI-Scholarship
 
-Hello, let us give yiu a brief about the material and we are publishing here and what it is used for, 
+Hello, let us give you a brief about the material and we are publishing here and what it is used for, 
 
 1. This repositiry is dedicated to the learning material published by the memebers of the reading_group of SPAI Challange
 2. This repository contains resources to help people achieve all their objectives as set by the reading_group
