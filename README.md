@@ -1,4 +1,4 @@
-| [Want to Join ???](https://docs.google.com/forms/d/e/1FAIpQLSeiI8RIMYWBAaZolKJciwv3tHDE4n0PElLYxhDBo2TBdvlgZg/viewform?usp=sf_link) | [Regarding Community](https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship/blob/master/regarding%20community.md)  |  [Resources](https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship/blob/master/Reading%20Resources.ipynb)  |  [dates and deadlines]()  | [Quiz](https://docs.google.com/forms/d/1CqD2nnmcjLunEdBqDkcG6qWZ-K3RAn9bwQ--LoBP65k/edit#responses) |
+| [Want to Join ???](https://docs.google.com/forms/d/e/1FAIpQLSeiI8RIMYWBAaZolKJciwv3tHDE4n0PElLYxhDBo2TBdvlgZg/viewform?usp=sf_link) | [Regarding Community](https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship/blob/master/regarding%20community.md)  |  [Resources](https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship/blob/master/Reading%20Resources.ipynb)  |  [dates and deadlines]()  | [Quiz] |
 
 
 # SPARC (Facebook Secure and Private AI Reading Community)
