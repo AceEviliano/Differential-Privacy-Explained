@@ -1,5 +1,4 @@
- [Regarding Community](https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship/blob/master/regarding%20community.md)  |  [Resources](https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship/blob/master/Reading%20Resources.ipynb)  
-
+ 
 # SPARC (Facebook Secure and Private AI Reading Community)
 
 Hello welcome all to the reading community of the Facebook Secure and Private AI reading challenge.This community aims at achieving somethings :
